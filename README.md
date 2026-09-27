@@ -9,7 +9,7 @@
 Bengaluru, Karnataka, India
 
 <!-- Replace PORTFOLIO-URL below with your live portfolio link once it is deployed -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF2A1F?style=flat-square&logo=googlechrome&logoColor=white)](PORTFOLIO-URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF2A1F?style=flat-square&logo=googlechrome&logoColor=white)](https://itsvijayakumarl.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vijayakumarl-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayakumarl/)
 [![Blog](https://img.shields.io/badge/Blog-trendit.in-FF5722?style=flat-square&logo=rss&logoColor=white)](https://trendit.in/author/vijayakumarl/)
 [![Email](https://img.shields.io/badge/Email-risewithvj%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:risewithvj@gmail.com)
@@ -385,7 +385,7 @@ Leading the complete technical lifecycle of a multi-brand digital portfolio. Res
 
 Open to conversations on web architecture, application security, AI agents, automation engineering, technical SEO, and Micro SaaS.
 
-- **Portfolio**: PORTFOLIO-URL
+- **Portfolio**: [itsvijayakumar.l.github.io](https://itsvijayakumarl.github.io/)
 - **LinkedIn**: [linkedin.com/in/vijayakumarl](https://www.linkedin.com/in/vijayakumarl/)
 - **Blog**: [trendit.in/author/vijayakumarl](https://trendit.in/author/vijayakumarl/)
 - **Email**: risewithvj@gmail.com
